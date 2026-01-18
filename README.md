@@ -1,5 +1,9 @@
 # Sql_Project
 # SQL Project on Online Book store
+
+**This SQL project analyzes an Online Book Store database consisting of Books, Customers, and Orders tables.
+The objective is to extract meaningful business insights related to customer purchasing behavior, sales performance, and book popularity using structured SQL queries.**
+
 **Basic Queries**
 
 1) Retrieve all books in the "Fiction" genre
