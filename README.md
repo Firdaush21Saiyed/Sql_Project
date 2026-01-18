@@ -1,6 +1,6 @@
 # Sql_Project
 # SQL Project on Online Book store
-Basic Queries
+**Basic Queries**
 
 1) Retrieve all books in the "Fiction" genre
 2) Find books published after the year 1950
@@ -14,7 +14,7 @@ Basic Queries
 10) Find the book with the lowest stock
 11) Calculate the total revenue generated from all orders
 
-Advance Queries
+**Advance Queries**
 
 1) Retrieve the total number of books sold for each genre
 2) Find the average price of books in the "Fantasy" genre
